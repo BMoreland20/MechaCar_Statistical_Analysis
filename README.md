@@ -7,7 +7,7 @@ A) Since our intercept is significant, we can conclude that most likely vehicle 
 B) The slope of the linear model is not considered to be zero.  When looking at both the R-squared and the Adjusted R-squared we observe a strong positive relationship (see image below).
 C) Our current linear model does predict the mpg of the MechaCar prototypes effectively.  This can be confirmed when looking at our p-value result of 5.35e-11.  This p-value is much smaller than our alpha value of .05 stating that our model will accurately predict the relationship between all of our variables on mpg (See image).
 
-![This is an image](https://courses.bootcampspot.com/courses/1217/assignments/23600?module_item_id=474359)
+![This is an image](https://github.com/BMoreland20/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_Regression_Summary_Stats.png)
 
 
 ## Summary Statistics on Suspension Coils
