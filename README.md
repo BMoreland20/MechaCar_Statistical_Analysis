@@ -43,9 +43,9 @@ D. When looking at the T-test for lot 3 when comparing to the population mean of
 ## Study Design: MechaCar vs Competition
 
 A. To perform a study comparing MechaCar to any competition we would want to use the following metrics to show that MechaCar is the best: MPG City/Highway, HP, storage capacity, tow capacity, safety rating, and maintenance cost.
-	- Our null hypothesis would be that there is no difference between MechaCar and the competion, while our alternative hypothesis is that there is a difference between MechaCar and the competion.	
-	- To test our hypothesis we would need to perform a two sample T-test.  The reason for a two sample T-test is that we want to compare the two means together to determine if the difference between the means of MechaCar and the competition are indeed statistically significant.	
-	- To calculate a two sample T-test we need:
-		- Mean of both samples
-		- Standard deviation of both samples
-		- Sample size of both samples
+   - Our null hypothesis would be that there is no difference between MechaCar and the competion, while our alternative hypothesis is that there is a difference between MechaCar and the competion.	
+   - To test our hypothesis we would need to perform a two sample T-test.  The reason for a two sample T-test is that we want to compare the two means together to determine if the difference between the means of MechaCar and the competition are indeed statistically significant.	
+   - To calculate a two sample T-test we need:
+     - Mean of both samples
+     - Standard deviation of both samples
+     - Sample size of both samples
