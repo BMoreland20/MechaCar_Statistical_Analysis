@@ -17,6 +17,7 @@ A) According to our overall summary all of the coils would meet the criteria for
 ![This is an image](https://github.com/BMoreland20/MechaCar_Statistical_Analysis/blob/main/Resources/Total_Sumary.png)
 
 B) However, when looking at the lot data we can see that Lot 3 would fail to meet the criteria with a variance of 170 PSI (See image).
+
 ![This is an image](https://github.com/BMoreland20/MechaCar_Statistical_Analysis/blob/main/Resources/Lot_Sumary.png)
 
 
